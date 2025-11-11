@@ -14,7 +14,7 @@ Dibangun dengan **Python, PyTorch, Tkinter**, dan **OpenCV**.
 
 ---
 
-## 🧩 Tumpukan Teknologi
+## 🧩 Teknologi yang digunakan
 - **Python 3.10+**
 - **PyTorch**
 - **OpenCV**
@@ -27,16 +27,13 @@ Dibangun dengan **Python, PyTorch, Tkinter**, dan **OpenCV**.
 
 1️⃣ Klon Repositori
 ```bash
-git clone https://github.com/USERNAME/FERAPP.git](https://github.com/MiguellMiguell/UTS_ML_Face-Emotion-Recognition-
-cd FERAPP/app
+git clone https://github.com/MiguellMiguell/UTS_ML_Face-Emotion-Recognition-.git
+cd FERAPP
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
 3️⃣ Download Model File
-
-Karena ukuran model .pth besar, silakan download secara terpisah:
-👉 Download Model (Google Drive)
 
 Letakkan file resnet18_fer2013.pth di folder app/.
 
